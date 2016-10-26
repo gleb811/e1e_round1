@@ -395,18 +395,23 @@ The charges on FC were calculated by summing up charges of all {\em blocks} that
 
 {\bf 34. Section 4.2. What is the relative size of the MC contribution to the statistical uncertainty vs. the yield uncertainty across your phase space? If the yield uncertainty does not totally dominate (as Fig. 4.10 shows), why not just run more MC events until this is the case?  }\\[0.5cm]
 
-The statistical uncertainty is totally dominated by the yield uncertainty. In Fig. 4.10 the relative efficiency error is given in 7D kinematical cell. As it seen from the  plot there are a lot of events reconstructed, while for the data we typically have just one event in multi-dimensional cell. Our MC statistics is higher than in previous $2\pi$ analyses and exceeds data statistics more than ... times.\\[0.5cm]
+The statistical uncertainty is totally dominated by the yield uncertainty. In Fig. 4.10 the relative efficiency error is given in 7D kinematical cell. As it seen from the  plot there are a lot of events reconstructed, while for the data we typically have just one event in multi-dimensional cell. Our MC statistics is higher than in all previous $2\pi$ analyses and exceeds data statistics more than 1500 times.\\[0.5cm]
 
 {\bf 35. Fig. 4.11 $\alpha_{\pi^{-}}$ distribution consistently does not match the data. Any comment?}\\[0.5cm]
 
-The green curves in Fig. 4.10 are not a model fit, they show the cross section from new $2\pi$ EG that was used to fill out empty cells. The cross sections from new $2\pi$ EG are obtained from JM model predictions in those regions where they exist.  In the regions where JM model predictions 	do not exist the new EG emploes a special interpolation/extrapolation procedure (see https://userweb.jlab.org/$\sim$skorodum/pictures/secure/docs/clas\_col\_meet\_skor.pdf). For the bin ($W = 1.6375$~GeV, $Q^{2} = 0.525$~GeV$^{2}$) shown in Fig. 4.10 there are no model predictions, so the green curves in Fig. 4.10 correspond to the best cross section approximation that available up to now.\\[0.5cm] 
+The $\alpha_{\pi^{-}}$ and $\alpha_{\pi^{+}}$ cross sections obtained from new $2\pi$ event generator and shown by green curves in Fig. 4.11 were occasionally swapped around. This mistake is corrected in the new version of the analysis note. Thank you.  
+
+
+%The green curves in Fig. 4.10 are not a model fit, they show the cross section from new $2\pi$ EG that was used to fill out empty cells. The cross sections from new $2\pi$ EG are obtained from JM model predictions in those regions where they exist.  In the regions where JM model predictions 	do not exist the new EG emploes a special interpolation/extrapolation procedure (see https://userweb.jlab.org/$\sim$skorodum/pictures/secure/docs/clas\_col\_meet\_skor.pdf). For the bin ($W = 1.6375$~GeV, $Q^{2} = 0.525$~GeV$^{2}$) shown in Fig. 4.10 there are no model predictions, so the green curves in Fig. 4.10 correspond to the best cross section approximation that available up to now.\\[0.5cm] 
 
 
 {\bf 36. Fig. 4.11. In all three plots, in the cross section over  $\alpha\pi^{+}$  there is a significant difference between "unfilled" and model cross section around 180 degrees. Naively I would expect that to lead to a significant difference between "filled" and "unfilled" cross section (similar to what you have for cross section over $\theta_{\pi^{-}}$  at low/high angles) but there is very small difference. Could you please comment.}\\[0.5cm] 
 
-The difference between "filled" and "unfilled" cross sections is determined by the amount of empty multi-dimensional cells that contribute into the particular point in one-dimensional distribution. Due to the CLAS acceptance this amount is maximal at the forward and backward $\theta$ angles being small in other areas. If the amount of empty cells is relatively small the difference between "filled" and "unfilled" cross section is also small even if the EG cross section (green curves in Fig. 4.11) differs from the experimantal one significantly.\\[0.5cm]
+There was a mistake, see the answer to the question 35.
 
-{\bf Section 4.6 -- I need more detail on exactly how you combine the events for the different topologies. There should be only three topologies (please 
+%The difference between "filled" and "unfilled" cross sections is determined by the amount of empty multi-dimensional cells that contribute into the particular point in one-dimensional distribution. Due to the CLAS acceptance this amount is maximal at the forward and backward $\theta$ angles being small in other areas. If the amount of empty cells is relatively small the difference between "filled" and "unfilled" cross section is also small even if the EG cross section (green curves in Fig. 4.11) differs from the experimantal one significantly.\\[0.5cm]
+
+{\bf 37. Section 4.6 -- I need more detail on exactly how you combine the events for the different topologies. There should be only three topologies (please 
 confirm): $e p \rightarrow e' p' \pi^{-} X$, $e p \rightarrow e' p' \pi^{+} X$, and $e p \rightarrow \pi^{+} \pi^{-} X$. How do you ensure there 
 is no double counting? How do you account for the different CLAS 
 acceptances? I think that it would be important to compare cross sections 
@@ -420,14 +425,18 @@ One can distinguish four topologies:
 \item $e p \rightarrow e' \pi^{+} \pi^{-} X$
 \item $e p \rightarrow e' p \pi^{+} \pi^{-} X$
 \end{itemize} 
-These topologies are defined in a way they do not overlap. For example the topology $e p \rightarrow e' p' \pi^{+} X$ requires the presence of $e'$,$p'$ and $\pi^{+}$ candidates and absence of $\pi^{-}$ candidates, avoiding in this way double counting. This explanation was added to the Section 3.4. 
+These topologies are defined in a way they do not overlap. For example the topology $e p \rightarrow e' p' \pi^{+} X$ requires the presence of $e'$, $p'$ and $\pi^{+}$ candidates and absence of $\pi^{-}$ candidates, avoiding in this way double counting. This explanation was added to the Section 3.4. 
 
 The explanation of the topologies combination and corresponded CLAS acceptance calculation is given in Section 4.6. Our main topology is $e p \rightarrow e' p' \pi^{+} X$, it contains 70\% of statistics. Due to the run conditions all other topologies are dominated by the kinematical cells with zero acceptance and the cross sections obtained for these topologies individually are very model dependent and their direct comparison is not informative. So, we decided to compare the cross sections obtained for various ways of topology combinations (see Fig. 4.11).\\[0.5cm] 
 
 
 {\bf 38. Section 5, line 848. From previous Section I've got an impression you have a model, which you use to generate events. Isn't it better to use a model to estimate the bin centering correction?}\\[0.5cm]  	
 
-Actually it is not a model it is just the cross section from new $2\pi$ EG (see answer to the question 35). So, we decided that it is better to use the data cross section shape for the bin centering correction.\\[0.5cm]
+Actually it is not a model it is just the cross section from new $2\pi$ EG. 
+
+The green curves in Fig. 4.10 are not a model fit, they show the cross section from new $2\pi$ EG that was used to fill out empty cells. The cross sections from new $2\pi$ EG are obtained from JM model predictions in those regions where they exist.  In the regions where JM model predictions 	do not exist the new EG emploes a special interpolation/extrapolation procedure (see https://userweb.jlab.org/$\sim$skorodum/pictures/secure/docs/clas\_col\_meet\_skor.pdf). 
+
+So, we decided that it is better to use the data cross section shape for the bin centering correction.\\[0.5cm]
 
 {\bf 39. Section 6.1. Is the elastic cross section you present measured with electron detection only?}\\[0.5cm]
 
@@ -445,13 +454,14 @@ simulation the following formula is used:
 $$
 \frac{\sigma_{eff}}{eff} = \sqrt{\frac{N_{gen}-N_{rec}}{N_{rec}N_{gen}}}
 $$
-The explanation was added to the Section. 4.2. All the cross sections and errors in the analysis note were recalculated.\\[0.5cm]
+The explanation was added to the Section 4.2. All the cross sections and errors in the analysis note were recalculated.\\[0.5cm]
 
 {\bf 41. Section 6.4 -- Do you assign the average/typical value as the systematic for all 
 bins or what you determine for each individual bin? Please provide a plot of 
 the kinematic and statistical dependence of your systematic uncertainties. }\\[0.5cm] 
 
-The systematical uncertanties were determined in each bin in $W$ and $Q^{2}$ individually (see Fig.6.2). In the Table 6.2 the typical values of the systematical uncertanties in $W$ and $Q^{2}$ bin are given. The explanation is added to the text.\\[0.5cm]
+The systematical uncertanties due to the different ways of combining topologies and due to the integration over different final hadron variables were determined in each bin in $W$ and $Q^{2}$ individually (see Fig.6.2). While the systematical uncertanties due to the normalization, electron id, and
+ electron detection efficiency and due ti the radiative corrections are assigned globally. In the Table 6.1 the typical values of the systematical uncertanties in $W$ and $Q^{2}$ bin are given. The explanation is added to the text.\\[0.5cm]
 
 {\bf 42. Section 6.4 Do you have any estimate on the systematic error from hadron identification? }\\[0.5cm] 
 

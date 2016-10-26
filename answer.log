@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.5)  24 OCT 2016 21:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.5)  25 OCT 2016 23:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1154,150 +1154,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 353--354
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--359
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 
  []
 
 [13]
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--393
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
+Underfull \hbox (badness 10000) in paragraph at lines 398--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
 
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 401--402
-\OT1/cmr/m/n/12 tion from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG that w
-as used to fill out empty cells. The cross sec-
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 401--402
-\OT1/cmr/m/n/12 tions from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG are o
-b-tained from JM model pre-dic-tions in those re-
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 401--402
-\OT1/cmr/m/n/12 gions where they ex-ist. In the re-gions where JM model pre-dic
--tions do not
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 401--402
-\OT1/cmr/m/n/12 ex-ist the new EG em-ploes a spe-cial in-ter-po-la-tion/extrapo
-lation pro-ce-dure (see
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
-\OT1/cmr/m/n/12 https://userweb.jlab.org/$\OMS/cmsy/m/n/12 ^^X$\OT1/cmr/m/n/12 
-skorodum/pictures/secure/docs/clas[]col[]meet[]skor.pdf).
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--405
+Underfull \hbox (badness 10000) in paragraph at lines 414--420
 
  []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 423.
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--414
-
- []
-
-[15]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 417.
-
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 417.
-
-Underfull \hbox (badness 10000) in paragraph at lines 424--425
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 427--428
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 429--430
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 431--432
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 423.
+ [15]
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
@@ -1306,51 +1250,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--434
 
  []
 
-[16]
+
+Underfull \hbox (badness 1478) in paragraph at lines 437--438
+\OT1/cmr/m/n/12 tion from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG that w
+as used to fill out empty cells. The cross sec-
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 437--438
+\OT1/cmr/m/n/12 tions from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG are o
+b-tained from JM model pre-dic-tions in those re-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 437--438
+\OT1/cmr/m/n/12 gions where they ex-ist. In the re-gions where JM model pre-dic
+-tions do not
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 437--438
+\OT1/cmr/m/n/12 ex-ist the new EG em-ploes a spe-cial in-ter-po-la-tion/extrapo
+lation pro-ce-dure (see
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 439--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+
+ []
+
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 439.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 449.
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--441
+Underfull \hbox (badness 10000) in paragraph at lines 445--451
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 456--458
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--448
+Underfull \hbox (badness 10000) in paragraph at lines 459--462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--452
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--454
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 455--456
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 457--458
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 459--460
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 461--463
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 464--465
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
 
  []
 
@@ -1360,23 +1317,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 466--467
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--470
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 471.
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
 [18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 471.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
  (./answer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 471.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 471.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 482.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 482.
 Package rerunfilecheck Info: File `answer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 471.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 482.
  ) 
 Here is how much of TeX's memory you used:
  14090 strings out of 493990
@@ -1396,14 +1378,15 @@ nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on answer.pdf (18 pages, 2820048 bytes).
+/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on answer.pdf (18 pages, 2827142 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
+ 440 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
  28 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
