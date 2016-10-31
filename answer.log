@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.5)  25 OCT 2016 23:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.9.5)  31 OCT 2016 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -832,17 +832,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Warning: No \author given.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
@@ -859,83 +869,64 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 <eout_vs_ein.pdf, id=15, 569.12625pt x 270.00874pt>
 File: eout_vs_ein.pdf Graphic file (type pdf)
  <use eout_vs_ein.pdf>
-Package pdftex.def Info: eout_vs_ein.pdf used on input line 128.
+Package pdftex.def Info: eout_vs_ein.pdf used on input line 134.
 (pdftex.def)             Requested size: 341.43306pt x 161.99pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--144
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 141--150
 
  []
 
-[2] [3 <./eout_vs_ein.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+[3 <./eout_vs_ein.pdf, page is rotated 90 degrees>]
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 
  []
 
 Missing character: There is no ­ in font cmbx12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 168--171
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
@@ -944,167 +935,162 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--173
 
  []
 
-<cc_eff_one_dimm.pdf, id=76, 569.12625pt x 270.00874pt>
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+<cc_eff_one_dimm.pdf, id=77, 569.12625pt x 270.00874pt>
 File: cc_eff_one_dimm.pdf Graphic file (type pdf)
 
 <use cc_eff_one_dimm.pdf>
-Package pdftex.def Info: cc_eff_one_dimm.pdf used on input line 176.
+Package pdftex.def Info: cc_eff_one_dimm.pdf used on input line 182.
 (pdftex.def)             Requested size: 341.43306pt x 161.99pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
 
  []
 
 [5 <./cc_eff_one_dimm.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 241--242
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--248
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 249--254
 
  []
 
-<mass_no_th_vs_p.pdf, id=139, 569.12625pt x 270.00874pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+<mass_no_th_vs_p.pdf, id=140, 569.12625pt x 270.00874pt>
 File: mass_no_th_vs_p.pdf Graphic file (type pdf)
 
 <use mass_no_th_vs_p.pdf>
-Package pdftex.def Info: mass_no_th_vs_p.pdf used on input line 255.
+Package pdftex.def Info: mass_no_th_vs_p.pdf used on input line 261.
 (pdftex.def)             Requested size: 341.43306pt x 161.99pt.
- <mass.pdf, id=140, 569.12625pt x 270.00874pt>
+ <mass.pdf, id=141, 569.12625pt x 270.00874pt>
 File: mass.pdf Graphic file (type pdf)
 
 <use mass.pdf>
-Package pdftex.def Info: mass.pdf used on input line 262.
+Package pdftex.def Info: mass.pdf used on input line 268.
 (pdftex.def)             Requested size: 341.43306pt x 161.99pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--273
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--275
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
 [7 <./mass_no_th_vs_p.pdf, page is rotated 90 degrees>]
-<b_vs_p_deuteron.pdf, id=193, 569.12625pt x 736.7525pt>
+<b_vs_p_deuteron.pdf, id=194, 569.12625pt x 736.7525pt>
 File: b_vs_p_deuteron.pdf Graphic file (type pdf)
 
 <use b_vs_p_deuteron.pdf>
-Package pdftex.def Info: b_vs_p_deuteron.pdf used on input line 279.
+Package pdftex.def Info: b_vs_p_deuteron.pdf used on input line 285.
 (pdftex.def)             Requested size: 412.56496pt x 534.10378pt.
 
 
 LaTeX Warning: Reference `eq:hadron_hadronmass' on page 8 undefined on input li
-ne 280.
+ne 286.
 
 
 LaTeX Warning: Reference `eq:hadron_pioncuts' on page 8 undefined on input line
- 280.
+ 286.
 
 
 LaTeX Warning: Reference `eq:hadron_protoncuts' on page 8 undefined on input li
-ne 280.
+ne 286.
 
 
 LaTeX Warning: Reference `eq:hadron_hadronmass' on page 8 undefined on input li
-ne 280.
+ne 286.
 
 
 LaTeX Warning: Reference `eq:hadron_pioncuts' on page 8 undefined on input line
- 280.
+ 286.
 
 
 LaTeX Warning: Reference `eq:hadron_protoncuts' on page 8 undefined on input li
-ne 280.
+ne 286.
 
 
-LaTeX Warning: Float too large for page by 5.3204pt on input line 282.
+LaTeX Warning: Float too large for page by 5.3204pt on input line 288.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 290--293
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--292
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--294
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
 [8 <./mass.pdf, page is rotated 90 degrees>] [9 <./b_vs_p_deuteron.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--311
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
-<proton_eloss/delta_p_vs_p.pdf, id=293, 569.12625pt x 546.04pt>
+[10] <proton_eloss/delta_p_vs_p.pdf, id=298, 569.12625pt x 546.04pt>
 File: proton_eloss/delta_p_vs_p.pdf Graphic file (type pdf)
 
 <use proton_eloss/delta_p_vs_p.pdf>
-Package pdftex.def Info: proton_eloss/delta_p_vs_p.pdf used on input line 318.
+Package pdftex.def Info: proton_eloss/delta_p_vs_p.pdf used on input line 324.
 (pdftex.def)             Requested size: 341.43306pt x 327.5932pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--328
-
- []
-
-[10] [11 <./proton_eloss/delta_p_vs_p.pdf, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 332--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 330--334
 
  []
 
@@ -1113,7 +1099,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
-
+[11 <./proton_eloss/delta_p_vs_p.pdf, page is rotated 90 degrees>]
 Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
@@ -1134,22 +1120,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--345
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--348
-
- []
-
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 351--352
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--354
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
  []
 
@@ -1158,28 +1149,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
 
  []
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
@@ -1189,183 +1180,194 @@ Underfull \hbox (badness 10000) in paragraph at lines 374--375
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--382
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
+Underfull \hbox (badness 10000) in paragraph at lines 387--388
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 398--399
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--401
+Underfull \hbox (badness 10000) in paragraph at lines 420--426
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--420
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 423.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 429.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 423.
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 429.
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
-
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 437--438
-\OT1/cmr/m/n/12 tion from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG that w
-as used to fill out empty cells. The cross sec-
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 437--438
-\OT1/cmr/m/n/12 tions from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG are o
-b-tained from JM model pre-dic-tions in those re-
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 437--438
-\OT1/cmr/m/n/12 gions where they ex-ist. In the re-gions where JM model pre-dic
--tions do not
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 437--438
-\OT1/cmr/m/n/12 ex-ist the new EG em-ploes a spe-cial in-ter-po-la-tion/extrapo
-lation pro-ce-dure (see
- []
-
-
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 439--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--442
+Underfull \hbox (badness 1478) in paragraph at lines 443--444
+\OT1/cmr/m/n/12 tion from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG that w
+as used to fill out empty cells. The cross sec-
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 443--444
+\OT1/cmr/m/n/12 tions from new $2\OML/cmm/m/it/12 ^^Y$ \OT1/cmr/m/n/12 EG are o
+b-tained from JM model pre-dic-tions in those re-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 443--444
+\OT1/cmr/m/n/12 gions where they ex-ist. In the re-gions where JM model pre-dic
+-tions do not
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 443--444
+\OT1/cmr/m/n/12 ex-ist the new EG em-ploes a spe-cial in-ter-po-la-tion/extrapo
+lation pro-ce-dure (see
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 449.
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 455.
 
-Underfull \hbox (badness 10000) in paragraph at lines 445--451
+Underfull \hbox (badness 10000) in paragraph at lines 451--457
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--468
 
  []
 
 [16]
-Underfull \hbox (badness 10000) in paragraph at lines 456--458
+Underfull \hbox (badness 10000) in paragraph at lines 469--471
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--462
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--465
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
+Underfull \hbox (badness 10000) in paragraph at lines 478--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--474
+Underfull \hbox (badness 10000) in paragraph at lines 483--484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
+Underfull \hbox (badness 10000) in paragraph at lines 485--487
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 479--481
-
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 482.
-[18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 482.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 490.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 490.
  (./answer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 482.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 482.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 490.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 490.
 Package rerunfilecheck Info: File `answer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 482.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 490.
  ) 
 Here is how much of TeX's memory you used:
- 14090 strings out of 493990
- 211891 string characters out of 6164843
+ 14096 strings out of 493990
+ 211992 string characters out of 6164843
  383344 words of memory out of 5000000
- 17203 multiletter control sequences out of 15000+600000
- 13948 words of font info for 54 fonts, out of 8000000 for 9000
+ 17209 multiletter control sequences out of 15000+600000
+ 15494 words of font info for 60 fonts, out of 8000000 for 9000
  680 hyphenation exceptions out of 8191
  53i,15n,92p,1332b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></u
@@ -1383,7 +1385,7 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on answer.pdf (18 pages, 2827142 bytes).
+Output written on answer.pdf (18 pages, 2831079 bytes).
 PDF statistics:
  440 PDF objects out of 1000 (max. 8388607)
  245 compressed objects within 3 object streams
